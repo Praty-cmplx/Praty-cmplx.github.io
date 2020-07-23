@@ -80,28 +80,28 @@ th,
 tr,
 p,
 a {
-  font-family: 'Ubuntu Mono', Helvetica, sans-serif;
+  font-family: 'Ubuntu Mono', Verdana, Helvetica, sans-serif;
   font-size: 14px
 }
 
 strong {
-  font-family: 'Ubuntu Mono', Helvetica, sans-serif;
+  font-family: 'Ubuntu Mono', Verdana, Helvetica, sans-serif;
   font-size: 14px;
 }
 
 heading {
-  font-family: 'Ubuntu Mono', Helvetica, sans-serif;
+  font-family: 'Ubuntu Mono', Verdana, Helvetica, sans-serif;
   font-size: 22px;
 }
 
 papertitle {
-  font-family: 'Ubuntu Mono', Helvetica, sans-serif;
+  font-family: 'Ubuntu Mono', Verdana, Helvetica, sans-serif;
   font-size: 14px;
   font-weight: 700
 }
 
 name {
-  font-family: 'Ubuntu Mono', Helvetica, sans-serif;
+  font-family: 'Ubuntu Mono', Verdana, Helvetica, sans-serif;
   font-size: 32px;
 }
 
